@@ -1,2 +1,1 @@
-# pacman-lol
-pacman in a python code
+Pacman, the classic arcade game.
